@@ -1,0 +1,4 @@
+interface IWebPage
+    {
+      string GetContent();
+    }

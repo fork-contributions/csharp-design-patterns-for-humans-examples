@@ -1,0 +1,4 @@
+ interface ITheme
+    {
+      string GetColor();
+    }
